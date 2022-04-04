@@ -1,4 +1,5 @@
 function corrigir() {
+    document.querySelector(".hide").style.display = "block";
     let tudo2 = 0;
     let tudo1 = 0;
     let nom = document.getElementById("texto").value;
